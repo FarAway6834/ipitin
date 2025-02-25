@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='ipitin',
-    version='0.0.2',
+    version='0.0.3',
     description='Import Pandas Import Tensorflow Import Numpy',
     author='du7ec',
     author_email='du7ec6834@gmail.com',
