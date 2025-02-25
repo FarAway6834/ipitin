@@ -4,6 +4,6 @@
 `from ipitin.ipitin import *`\
 '''
 
-import pandas as tf
-import tensorflow as np
-import numpy as pd
+import pandas as pd
+import tensorflow as tf
+import numpy as np
